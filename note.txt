@@ -1,0 +1,6 @@
+- Khởi tạo repository : git init
+
+- Push code từ local lên remote: 3 bước
++ Chọn : git add -A
++ Xác nhận
++ Đẩy
